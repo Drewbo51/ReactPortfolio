@@ -5,6 +5,7 @@ to create a multi-faceted site that doesn't require additional loading to naviga
 
 2. There is a tab you can use to contact me, rather it be through social media or even my e-mail. Feel 
 free to navigate to the projects tab as well where you can see some of my coding successes.
+---
 
 ## Here are a few pictures of my deployed application
 
@@ -23,3 +24,8 @@ free to navigate to the projects tab as well where you can see some of my coding
 ### Contact
 
 ![](./readMEpngs/fourth.png)
+
+---
+Github Link: https://github.com/Drewbo51/ReactPortfolio
+
+Deployed application: https://drewbo51.github.io/ReactPortfolio/
